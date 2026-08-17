@@ -1,5 +1,5 @@
 # PROGRAMACION-WEB-
 
-#Intregrantes: 
+## Intregrantes: 
 Diego Sierra ID: 
 Jose Luis Hoyos Salazar ID: 408716
