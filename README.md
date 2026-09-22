@@ -1,5 +1,5 @@
 # PROGRAMACION-WEB-
 
-## Intregrantes: 
+## Integrantes: 
 - **Diego Sierra**
 - **Jose Luis Hoyos Salazar**
